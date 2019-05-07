@@ -1,5 +1,6 @@
 # 6 handshakes FBC
 protocol 6 handshakes for FeedBackCoin
+![Six_degrees_of_separation](https://upload.wikimedia.org/wikipedia/commons/9/94/Six_degrees_of_separation.png)
 
 In general, the essence is this: according to the theory of 6 handshakes, each person is connected through his relatives and friends with all people on earth through 6 levels.
 https://en.wikipedia.org/wiki/Six_degrees_of_separation
